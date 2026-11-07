@@ -10,6 +10,6 @@ Keywords: google-sheets, sync, agentic-suite, claude-code, codex, cli, mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-sheets
-- Core contract: https://github.com/pooriaarab/agentic-sheets/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-sheets
+- Core contract: https://github.com/itsryanarmani/agentic-sheets/blob/main/docs/agentic-core.md
 - License: MIT
