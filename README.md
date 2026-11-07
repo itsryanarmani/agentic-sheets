@@ -4,7 +4,7 @@
 [![Monthly downloads](https://img.shields.io/npm/dm/agentic-sheets)](https://www.npmjs.com/package/agentic-sheets)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-sheets) · [Source](https://github.com/pooriaarab/agentic-sheets) · [Support](https://github.com/pooriaarab/agentic-sheets/issues)
+[Package](https://www.npmjs.com/package/agentic-sheets) · [Source](https://github.com/itsryanarmani/agentic-sheets) · [Support](https://github.com/itsryanarmani/agentic-sheets/issues)
 
 agentic-sheets is an open-source Google Sheets values API wrapper for developers who move JSON rows through a TypeScript SDK, CLI, or Model Context Protocol (MCP) server.
 
